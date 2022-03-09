@@ -1,0 +1,7 @@
+.phoneNum {
+color:aqua
+}
+.box {
+  height: 2000rpx;
+  background-color: lightblue;
+}
